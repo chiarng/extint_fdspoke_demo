@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Log: This is a log entry for extint_fdspoke_demo app. </description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:46:46</sys_created_on>
+        <sys_id>2b1ec9841b331850fe0165f8bc4bcbec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="extint_fdspoke_demo" source="c34678041bbfd450fe0165f8bc4bcb86">c34678041bbfd450fe0165f8bc4bcb86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_update_name>sys_atf_step_2b1ec9841b331850fe0165f8bc4bcbec</sys_update_name>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:46:46</sys_updated_on>
+        <table/>
+        <test display_value="extint_fdspoke_demo_test1">d5fd09841b331850fe0165f8bc4bcbbc</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=2b1ec9841b331850fe0165f8bc4bcbec"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>2b1ec9841b331850fe0165f8bc4bcbec</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:46:46</sys_created_on>
+        <sys_id>a93e4d841b331850fe0165f8bc4bcbd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:46:46</sys_updated_on>
+        <value>This is a log entry for extint_fdspoke_demo app. </value>
+        <variable display_value="">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+</record_update>

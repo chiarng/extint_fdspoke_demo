@@ -11,7 +11,7 @@
         <copied_from_name/>
         <description>Pipeline for app for demoing Flow Designer and CI/CD Spoke for ServiceNow CI/CD</description>
         <internal_name>extint_fdspoke_demo_pipeline</internal_name>
-        <label_cache>[]</label_cache>
+        <label_cache>[{"name":"3f1c19dd-5b4f-4d9b-a414-f2ba22428a44.status","label":"1➛Status","reference_display":"Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3f1c19dd-5b4f-4d9b-a414-f2ba22428a44.error","label":"1➛Error","reference_display":"Error","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3f1c19dd-5b4f-4d9b-a414-f2ba22428a44.status_label","label":"1➛Status Label","reference_display":"Status Label","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3f1c19dd-5b4f-4d9b-a414-f2ba22428a44.status_message","label":"1➛Status Message","reference_display":"Status Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3f1c19dd-5b4f-4d9b-a414-f2ba22428a44.status_detail","label":"1➛Status Detail","reference_display":"Status Detail","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3f1c19dd-5b4f-4d9b-a414-f2ba22428a44.http_status","label":"1➛HTTP Status","reference_display":"HTTP Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2254300e-1b64-4fc1-87c0-21b24a90749b.status","label":"2➛Status","reference_display":"Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2254300e-1b64-4fc1-87c0-21b24a90749b.error","label":"2➛Error","reference_display":"Error","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2254300e-1b64-4fc1-87c0-21b24a90749b.status_label","label":"2➛Status Label","reference_display":"Status Label","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2254300e-1b64-4fc1-87c0-21b24a90749b.status_message","label":"2➛Status Message","reference_display":"Status Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2254300e-1b64-4fc1-87c0-21b24a90749b.status_detail","label":"2➛Status Detail","reference_display":"Status Detail","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2254300e-1b64-4fc1-87c0-21b24a90749b.http_status","label":"2➛HTTP Status","reference_display":"HTTP Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"172fefd7-e026-407e-b8b8-87c7587db175.status","label":"3➛Status","reference_display":"Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"172fefd7-e026-407e-b8b8-87c7587db175.error","label":"3➛Error","reference_display":"Error","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"172fefd7-e026-407e-b8b8-87c7587db175.status_label","label":"3➛Status Label","reference_display":"Status Label","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"172fefd7-e026-407e-b8b8-87c7587db175.status_message","label":"3➛Status Message","reference_display":"Status Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"172fefd7-e026-407e-b8b8-87c7587db175.status_detail","label":"3➛Status Detail","reference_display":"Status Detail","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"172fefd7-e026-407e-b8b8-87c7587db175.http_status","label":"3➛HTTP Status","reference_display":"HTTP Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.status","label":"4➛Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.status_message","label":"4➛Status Message","reference_display":"Status Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.result_url","label":"4➛Result URL","reference_display":"Result URL","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.error","label":"4➛Error","reference_display":"Error","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.test_suite_duration","label":"4➛Test Suite Duration","reference_display":"Test Suite Duration","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.rolledup_test_success_count","label":"4➛Rolledup Test Success Count","reference_display":"Rolledup Test Success Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.rolledup_test_failure_count","label":"4➛Rolledup Test Failure Count","reference_display":"Rolledup Test Failure Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.rolledup_test_error_count","label":"4➛Rolledup Test Error Count","reference_display":"Rolledup Test Error Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.rolledup_test_skip_count","label":"4➛Rolledup Test Skip Count","reference_display":"Rolledup Test Skip Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.test_suite_name","label":"4➛Test Suite Name","reference_display":"Test Suite Name","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.status_detail","label":"4➛Status Detail","reference_display":"Status Detail","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.status_label","label":"4➛Status Label","reference_display":"Status Label","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.percent_complete","label":"4➛Percent Complete","reference_display":"Percent Complete","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.http_status","label":"4➛HTTP Status","reference_display":"HTTP Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5dcfae4a-a61b-43b3-800b-1d51ba3cf448.test_suite_status","label":"4➛Test Suite Status","reference_display":"Test Suite Status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
         <name>extint_fdspoke_demo_pipeline</name>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0fd874481bbfd450fe0165f8bc4bcb2d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>extint_fdspoke_demo_pipeline</sys_name>
         <sys_overrides/>
         <sys_package display_value="extint_fdspoke_demo" source="c34678041bbfd450fe0165f8bc4bcb86">c34678041bbfd450fe0165f8bc4bcb86</sys_package>
@@ -38,11 +38,338 @@
         <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
         <sys_update_name>sys_hub_flow_0fd874481bbfd450fe0165f8bc4bcb2d</sys_update_name>
         <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
-        <sys_updated_on>2020-10-06 21:13:29</sys_updated_on>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=0fd874481bbfd450fe0165f8bc4bcb2d"/>
     <sys_variable_value action="delete_multiple" query="document_key=0fd874481bbfd450fe0165f8bc4bcb2d"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=0fd874481bbfd450fe0165f8bc4bcb2d^sys_idNOT IN100f81081b331850fe0165f8bc4bcbb5,580f81081b331850fe0165f8bc4bcbb9,900f81081b331850fe0165f8bc4bcbaf,900f81081b331850fe0165f8bc4bcbb2,940f81081b331850fe0165f8bc4bcbaa"/>
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <order>4</order>
+        <parent_ui_id/>
+        <subflow display_value="ATF Suite Start With ID">3ad193157753330038e286a26810610d</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>100f81081b331850fe0165f8bc4bcbb5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>5dcfae4a-a61b-43b3-800b-1d51ba3cf448</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=100f81081b331850fe0165f8bc4bcbb5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>100f81081b331850fe0165f8bc4bcbb5</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>1c0f81081b331850fe0165f8bc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>https://chiarngtestdemo.service-now.com/</value>
+        <variable display_value="">20392d8c7780001038e286a268106174</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>100f81081b331850fe0165f8bc4bcbb5</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>580f81081b331850fe0165f8bc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>d8bb1d621b501410fe0165f8bc4bcb84</value>
+        <variable display_value="">821ab3d97793330038e286a268106172</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>100f81081b331850fe0165f8bc4bcbb5</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>dc0f81081b331850fe0165f8bc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>bf4e01c41b331850fe0165f8bc4bcb1b</value>
+        <variable display_value="">32d193157753330038e286a26810610f</variable>
+    </sys_variable_value>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">1c0f81081b331850fe0165f8bc4bcbb8</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>580f81081b331850fe0165f8bc4bcbb9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>096fcb50-8546-466c-b13f-2f7a5474b23e</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=580f81081b331850fe0165f8bc4bcbb9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>580f81081b331850fe0165f8bc4bcbb9</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>d00f81081b331850fe0165f8bc4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>ATF Test Suite Passes</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=580f81081b331850fe0165f8bc4bcbb9"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>580f81081b331850fe0165f8bc4bcbb9</id>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>500f81081b331850fe0165f8bc4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{5dcfae4a-a61b-43b3-800b-1d51ba3cf448.status}}=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>580f81081b331850fe0165f8bc4bcbb9</id>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>9c0f81081b331850fe0165f8bc4bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <order>2</order>
+        <parent_ui_id/>
+        <subflow display_value="Publish Application With ID">49eaf80977a33300d4bdaeca78106162</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>900f81081b331850fe0165f8bc4bcbaf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>2254300e-1b64-4fc1-87c0-21b24a90749b</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=900f81081b331850fe0165f8bc4bcbaf"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbaf</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>5c0f81081b331850fe0165f8bc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>c34678041bbfd450fe0165f8bc4bcb86</value>
+        <variable display_value="">0deaf80977a33300d4bdaeca78106164</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbaf</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>980f81081b331850fe0165f8bc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>https://chiarngdevdemo.service-now.com/</value>
+        <variable display_value="">0fc6e9c87780001038e286a268106105</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbaf</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>d40f81081b331850fe0165f8bc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>752a91887740001038e286a2681061fb</value>
+        <variable display_value="">45eaf80977a33300d4bdaeca781061de</variable>
+    </sys_variable_value>
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <order>3</order>
+        <parent_ui_id/>
+        <subflow display_value="Install Application With ID">7dfaf04977a33300d4bdaeca7810615e</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>900f81081b331850fe0165f8bc4bcbb2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>172fefd7-e026-407e-b8b8-87c7587db175</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=900f81081b331850fe0165f8bc4bcbb2"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbb2</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>180f81081b331850fe0165f8bc4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>https://chiarngtestdemo.service-now.com/</value>
+        <variable display_value="">36f7a14c7780001038e286a2681061f6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbb2</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>540f81081b331850fe0165f8bc4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>752a91887740001038e286a2681061fb</value>
+        <variable display_value="">3dfaf04977a33300d4bdaeca7810617e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbb2</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>d80f81081b331850fe0165f8bc4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>c34678041bbfd450fe0165f8bc4bcb86</value>
+        <variable display_value="">75faf04977a33300d4bdaeca78106160</variable>
+    </sys_variable_value>
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <order>1</order>
+        <parent_ui_id/>
+        <subflow display_value="Apply Changes From Source Control With ID">8990073c77433300d4bdaeca781061e2</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>940f81081b331850fe0165f8bc4bcbaa</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>3f1c19dd-5b4f-4d9b-a414-f2ba22428a44</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=940f81081b331850fe0165f8bc4bcbaa"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>940f81081b331850fe0165f8bc4bcbaa</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>5c0f81081b331850fe0165f8bc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>c34678041bbfd450fe0165f8bc4bcb86</value>
+        <variable display_value="">0d90073c77433300d4bdaeca781061e4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>940f81081b331850fe0165f8bc4bcbaa</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>980f81081b331850fe0165f8bc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>https://chiarngdevdemo.service-now.com/</value>
+        <variable display_value="">a8ba2d4077c0001038e286a26810611c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>940f81081b331850fe0165f8bc4bcbaa</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>9c0f81081b331850fe0165f8bc4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>752a91887740001038e286a2681061fb</value>
+        <variable display_value="">8a7d546c77133300d4bdaeca781061ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>940f81081b331850fe0165f8bc4bcbaa</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>d40f81081b331850fe0165f8bc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>featurebranch</value>
+        <variable display_value="">0190473c77433300d4bdaeca78106116</variable>
+    </sys_variable_value>
     <sys_flow_cat_variable_model action="delete_multiple" query="id=0fd874481bbfd450fe0165f8bc4bcb2d^sys_idNOT IN83d870881bbfd450fe0165f8bc4bcb94"/>
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>0fd874481bbfd450fe0165f8bc4bcb2d</id>
@@ -55,4 +382,332 @@
         <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
         <sys_updated_on>2020-10-06 21:13:29</sys_updated_on>
     </sys_flow_cat_variable_model>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=0fd874481bbfd450fe0165f8bc4bcb2d^sys_idNOT IN100f81081b331850fe0165f8bc4bcbb5,900f81081b331850fe0165f8bc4bcbaf,900f81081b331850fe0165f8bc4bcbb2,940f81081b331850fe0165f8bc4bcbaa"/>
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <order>4</order>
+        <parent_ui_id/>
+        <subflow display_value="ATF Suite Start With ID">3ad193157753330038e286a26810610d</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>100f81081b331850fe0165f8bc4bcbb5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>5dcfae4a-a61b-43b3-800b-1d51ba3cf448</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=100f81081b331850fe0165f8bc4bcbb5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>100f81081b331850fe0165f8bc4bcbb5</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>1c0f81081b331850fe0165f8bc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>https://chiarngtestdemo.service-now.com/</value>
+        <variable display_value="">20392d8c7780001038e286a268106174</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>100f81081b331850fe0165f8bc4bcbb5</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>580f81081b331850fe0165f8bc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>d8bb1d621b501410fe0165f8bc4bcb84</value>
+        <variable display_value="">821ab3d97793330038e286a268106172</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>100f81081b331850fe0165f8bc4bcbb5</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>dc0f81081b331850fe0165f8bc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>bf4e01c41b331850fe0165f8bc4bcb1b</value>
+        <variable display_value="">32d193157753330038e286a26810610f</variable>
+    </sys_variable_value>
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <order>2</order>
+        <parent_ui_id/>
+        <subflow display_value="Publish Application With ID">49eaf80977a33300d4bdaeca78106162</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>900f81081b331850fe0165f8bc4bcbaf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>2254300e-1b64-4fc1-87c0-21b24a90749b</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=900f81081b331850fe0165f8bc4bcbaf"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbaf</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>5c0f81081b331850fe0165f8bc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>c34678041bbfd450fe0165f8bc4bcb86</value>
+        <variable display_value="">0deaf80977a33300d4bdaeca78106164</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbaf</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>980f81081b331850fe0165f8bc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>https://chiarngdevdemo.service-now.com/</value>
+        <variable display_value="">0fc6e9c87780001038e286a268106105</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbaf</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>d40f81081b331850fe0165f8bc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>752a91887740001038e286a2681061fb</value>
+        <variable display_value="">45eaf80977a33300d4bdaeca781061de</variable>
+    </sys_variable_value>
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <order>3</order>
+        <parent_ui_id/>
+        <subflow display_value="Install Application With ID">7dfaf04977a33300d4bdaeca7810615e</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>900f81081b331850fe0165f8bc4bcbb2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>172fefd7-e026-407e-b8b8-87c7587db175</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=900f81081b331850fe0165f8bc4bcbb2"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbb2</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>180f81081b331850fe0165f8bc4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>https://chiarngtestdemo.service-now.com/</value>
+        <variable display_value="">36f7a14c7780001038e286a2681061f6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbb2</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>540f81081b331850fe0165f8bc4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>752a91887740001038e286a2681061fb</value>
+        <variable display_value="">3dfaf04977a33300d4bdaeca7810617e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>900f81081b331850fe0165f8bc4bcbb2</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>d80f81081b331850fe0165f8bc4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>c34678041bbfd450fe0165f8bc4bcb86</value>
+        <variable display_value="">75faf04977a33300d4bdaeca78106160</variable>
+    </sys_variable_value>
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <order>1</order>
+        <parent_ui_id/>
+        <subflow display_value="Apply Changes From Source Control With ID">8990073c77433300d4bdaeca781061e2</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>940f81081b331850fe0165f8bc4bcbaa</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>3f1c19dd-5b4f-4d9b-a414-f2ba22428a44</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=940f81081b331850fe0165f8bc4bcbaa"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>940f81081b331850fe0165f8bc4bcbaa</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>5c0f81081b331850fe0165f8bc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>c34678041bbfd450fe0165f8bc4bcb86</value>
+        <variable display_value="">0d90073c77433300d4bdaeca781061e4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>940f81081b331850fe0165f8bc4bcbaa</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>980f81081b331850fe0165f8bc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>https://chiarngdevdemo.service-now.com/</value>
+        <variable display_value="">a8ba2d4077c0001038e286a26810611c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>940f81081b331850fe0165f8bc4bcbaa</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>9c0f81081b331850fe0165f8bc4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>752a91887740001038e286a2681061fb</value>
+        <variable display_value="">8a7d546c77133300d4bdaeca781061ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_sub_flow_instance</document>
+        <document_key>940f81081b331850fe0165f8bc4bcbaa</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>d40f81081b331850fe0165f8bc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>featurebranch</value>
+        <variable display_value="">0190473c77433300d4bdaeca78106116</variable>
+    </sys_variable_value>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=0fd874481bbfd450fe0165f8bc4bcb2d^sys_idNOT IN580f81081b331850fe0165f8bc4bcbb9"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">1c0f81081b331850fe0165f8bc4bcbb8</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="extint_fdspoke_demo_pipeline">0fd874481bbfd450fe0165f8bc4bcb2d</flow>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>580f81081b331850fe0165f8bc4bcbb9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="extint_fdspoke_demo">c34678041bbfd450fe0165f8bc4bcb86</sys_scope>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <ui_id>096fcb50-8546-466c-b13f-2f7a5474b23e</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=580f81081b331850fe0165f8bc4bcbb9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>580f81081b331850fe0165f8bc4bcbb9</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>d00f81081b331850fe0165f8bc4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <value>ATF Test Suite Passes</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=580f81081b331850fe0165f8bc4bcbb9"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>580f81081b331850fe0165f8bc4bcbb9</id>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>500f81081b331850fe0165f8bc4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{5dcfae4a-a61b-43b3-800b-1d51ba3cf448.status}}=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>580f81081b331850fe0165f8bc4bcbb9</id>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-10-06 22:50:14</sys_created_on>
+        <sys_id>9c0f81081b331850fe0165f8bc4bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-10-06 22:50:14</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
 </record_update>
